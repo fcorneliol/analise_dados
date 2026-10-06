@@ -2,3 +2,5 @@
 *.xlsx
 *.csv
 *.png
+stream.py
+__pycache__/
